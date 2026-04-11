@@ -1,0 +1,14 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+env/
+venv/
+
+.env
+vector_store_/
+__pycache__/
+*.pyc
+env/
+.streamlit/
+../Data/
