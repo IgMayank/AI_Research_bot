@@ -2,6 +2,7 @@ from langchain_community.document_loaders import PyPDFDirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
+from langchain_community.vectorstores import InMemoryVectorStore
 import os
 
 
@@ -28,7 +29,7 @@ def process_document(path):
         "normalize_embeddings": True
     }
 )
-    vector_store = Chroma.from_documents(
+    vector_store = InMemoryVectorStore.from_documents(
         documents=splitted_chunks,
         embedding=embeddings,
         persist_directory="./vector_store_"
@@ -36,7 +37,7 @@ def process_document(path):
     # vector_store.persist()
 
 
-loader = process_document("../Data")
+
 
 
 
