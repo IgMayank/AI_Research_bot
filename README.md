@@ -64,7 +64,7 @@ This project solves that using:
 ## 🧠 Architecture
 
 <p align="center">
-  <img src="https://placehold.co/800x400?text=Architecture+Diagram" width="700"/>
+  <img src="https://placehold.co/800x400/0f2027/ffffff?text=Architecture+Diagram" />
 </p>
 
 ---
@@ -95,8 +95,9 @@ Final Answer
 ## 🖥️ Demo UI
 
 <p align="center">
-  <img src="https://placehold.co/800x400?text=Demo+UI" width="700"/>
+  <img src="https://placehold.co/800x400/0f2027/ffffff?text=Demo+UI" />
 </p>
+
 ---
 
 ## 🛠️ Tech Stack
