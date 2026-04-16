@@ -30,6 +30,37 @@ AI Research Assistant is a **Retrieval-Augmented Generation (RAG)** system that:
 
 ---
 
+## 🧠 Why This Project Stands Out
+
+Most AI chatbot projects:
+
+- ❌ Hallucinate answers  
+- ❌ Ignore document grounding  
+- ❌ Lack system design  
+
+This project solves that using:
+
+- ✔ Retrieval-Augmented Generation (RAG)
+- ✔ Context-grounded responses
+- ✔ Memory-aware query handling
+- ✔ Modular pipeline design  
+
+👉 Built to simulate **real-world GenAI systems**, not toy demos.
+
+---
+
+## ⚙️ How It Works
+
+1. Documents are loaded and split into chunks  
+2. Chunks are converted into embeddings  
+3. Stored inside Chroma vector database  
+4. User query is matched with relevant chunks  
+5. LLM generates answer using retrieved context  
+
+👉 Ensures answers are **accurate, grounded, and explainable**
+
+---
+
 ## 🧠 Architecture
 
 <p align="center">
