@@ -94,11 +94,27 @@ Final Answer
 
 ## 🖥️ Demo UI
 
+### 🔹 Chat Interface
+
 <p align="center">
-  <img src="https://placehold.co/800x400/0f2027/ffffff?text=Demo+UI" />
+  <img src="assets/ui_start.png" width="700">
 </p>
 
 ---
+
+### 🔹 Asking a Question
+
+<p align="center">
+  <img src="assets/ui_second.png" width="700">
+</p>
+
+---
+
+### 🔹 AI Response
+
+<p align="center">
+  <img src="assets/ui_third.png" width="700">
+</p>
 
 ## 🛠️ Tech Stack
 
