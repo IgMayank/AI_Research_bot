@@ -63,9 +63,7 @@ This project solves that using:
 
 ## 🧠 Architecture
 
-<p align="center">
-  <img src="assets/architecture.png" width="800">
-</p>
+![Architecture](./assets/architecture.png)
 
 ---
 User Query
