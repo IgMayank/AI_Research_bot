@@ -64,7 +64,7 @@ This project solves that using:
 ## 🧠 Architecture
 
 <p align="center">
-  <img src="https://placehold.co/800x400/0f2027/ffffff?text=Architecture+Diagram" />
+  <img src="assets/architecture.png" width="800">
 </p>
 
 ---
